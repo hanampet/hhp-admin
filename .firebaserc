@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "hanam-healing-pet"
+  },
+  "targets": {
+    "hanam-healing-pet": {
+      "hosting": {
+        "admin-site": [
+          "hhp-admin"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
